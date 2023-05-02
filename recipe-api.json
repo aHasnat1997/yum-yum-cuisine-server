@@ -2,7 +2,7 @@
   {
     "recipe_id": 1,
     "recipe_name": "Apple Pie",
-    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587",
+    "image": "https://wallpaperaccess.com/full/1561664.jpg",
     "chef_id": 101,
     "ingredients": [
       "1 9-inch pie crust",
@@ -28,7 +28,7 @@
   {
     "recipe_id": 2,
     "recipe_name": "Macaroni and Cheese",
-    "image": "https://images.unsplash.com/photo-1516685018646-549198525c1d",
+    "image": "https://png.pngtree.com/background/20230321/original/pngtree-delicious-cheese-macaroni-picture-image_2153689.jpg",
     "chef_id": 102,
     "ingredients": [
       "8 ounces of elbow macaroni",
@@ -53,7 +53,7 @@
   {
     "recipe_id": 3,
     "recipe_name": "Fried Chicken",
-    "image": "https://images.unsplash.com/photo-1601314002592-b8734bca6604",
+    "image": "https://keviniscooking.com/wp-content/uploads/2019/06/The-Best-Southern-Fried-Chicken-Recipe-square.jpg",
     "chef_id": 103,
     "ingredients": [
       "8 pieces of chicken (legs, thighs, breasts or wings)",
@@ -79,7 +79,7 @@
   {
     "recipe_id": 4,
     "recipe_name": "Hamburger",
-    "image": "https://images.unsplash.com/photo-1551504734-5ee1c0fd629f",
+    "image": "https://images.unsplash.com/photo-1608767221051-2b9d18f35a2f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8Mnx8fGVufDB8fHx8&w=1000&q=80",
     "chef_id": 104,
     "ingredients": [
       "1 pound of ground beef",
@@ -100,7 +100,7 @@
   {
     "recipe_id": 5,
     "recipe_name": "Pancakes",
-    "image": "https://images.unsplash.com/photo-1517741991040-91338b176129",
+    "image": "https://wallpaperaccess.com/full/3759109.jpg",
     "chef_id": 105,
     "ingredients": [
       "2 cups of all-purpose flour",
@@ -128,7 +128,7 @@
   {
     "recipe_id": 6,
     "recipe_name": "Brownies",
-    "image": "https://images.unsplash.com/photo-1586548345766-7c6e9d8f9a5a",
+    "image": "https://images5.alphacoders.com/916/916571.jpg",
     "chef_id": 106,
     "ingredients": [
       "1/2 cup of butter",
@@ -155,7 +155,7 @@
   {
     "recipe_id": 7,
     "recipe_name": "Caesar Salad",
-    "image": "https://images.unsplash.com/photo-1572449043416-55f4685c9bb7",
+    "image": "https://wallpapercave.com/wp/wp3063126.jpg",
     "chef_id": 107,
     "ingredients": [
       "For the dressing:",
@@ -181,7 +181,7 @@
   {
     "recipe_id": 8,
     "recipe_name": "Grilled Cheese Sandwich",
-    "image": "https://images.unsplash.com/photo-1512621425532-58df884d97b0",
+    "image": "https://img.freepik.com/free-photo/grilled-sandwich-with-bacon-fried-egg-tomato-lettuce-served-wooden-cutting-board_1150-42571.jpg?w=2000",
     "chef_id": 108,
     "ingredients": [
       "4 slices of bread",
@@ -201,8 +201,8 @@
   },
   {
     "recipe_id": 9,
-    "recipe_name": "Chili",
-    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd",
+    "recipe_name": "Chili Sauce",
+    "image": "https://www.daysoftheyear.com/wp-content/uploads/hot-sauce-day-scaled.jpg",
     "chef_id": 109,
     "ingredients": [
       "1 tablespoon of oil",
@@ -232,7 +232,7 @@
   {
     "recipe_id": 10,
     "recipe_name": "Chocolate Chip Cookies",
-    "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e",
+    "image": "https://c4.wallpaperflare.com/wallpaper/334/844/983/cookies-food-chocolate-wallpaper-preview.jpg",
     "chef_id": 110,
     "ingredients": [
       "3/4 cup of unsalted butter, softened",
@@ -260,7 +260,7 @@
   {
     "recipe_id": 11,
     "recipe_name": "Corn Chowder",
-    "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557",
+    "image": "https://cravinghomecooked.com/wp-content/uploads/2020/09/corn-chowder-06-650x650.jpg",
     "chef_id": 111,
     "ingredients": [
       "4 slices of bacon, chopped",
@@ -288,7 +288,7 @@
   {
     "recipe_id": 12,
     "recipe_name": "Peanut Butter Cookies",
-    "image": "https://images.unsplash.com/photo-1519869325930-281384150729",
+    "image": "https://www.allrecipes.com/thmb/9xkpSRmdg9dd4DhSr0K3L81SfeY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3534210-super-easy-peanut-butter-cookies-Trusted-Brands-4x3-1-919351fc3ccd480695003de8a3fd3730.jpg",
     "chef_id": 112,
     "ingredients": [
       "1/2 cup of unsalted butter, softened",

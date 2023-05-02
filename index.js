@@ -19,7 +19,6 @@ app.get('/chef', (req, res) => {
 app.get('/chef/:id', (req, res) => {
   const id = parseInt(req.params.id);
   const chef = chefs.find(chef => chef.chef_id === id);
-  console.log(id);
   res.send(chef);
 })
 
