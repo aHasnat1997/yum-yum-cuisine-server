@@ -4,7 +4,89 @@
     "chef_img": "https://static.cordonbleu.edu/Files/MediaFile/70794.jpg",
     "chef_name": "Alice",
     "experience": 5,
-    "recipes": 5,
+    "recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Apple Pie",
+        "image": "https://wallpaperaccess.com/full/1561664.jpg",
+        "chef_id": 101,
+        "ingredients": [
+          "1 9-inch pie crust",
+          "6 cups of peeled and sliced apples",
+          "3/4 cup of sugar",
+          "2 tablespoons of all-purpose flour",
+          "1 teaspoon of ground cinnamon",
+          "1/4 teaspoon of salt",
+          "1/8 teaspoon of ground nutmeg",
+          "2 tablespoons of butter"
+        ],
+        "cooking_method": [
+          "Preheat oven to 375°F.",
+          "In a large bowl, toss the apples with the sugar, flour, cinnamon, salt and nutmeg.",
+          "Pour the apple mixture into the pie crust and dot with butter.",
+          "Cover the pie with a second pie crust and crimp the edges.",
+          "Cut several slits on the top crust to allow steam to escape.",
+          "Bake for 45 minutes or until golden and bubbly.",
+          "Let the pie cool slightly before serving."
+        ],
+        "rating": 4.5
+      },
+      {
+        "recipe_id": 5,
+        "recipe_name": "Pancakes",
+        "image": "https://wallpaperaccess.com/full/3759109.jpg",
+        "chef_id": 105,
+        "ingredients": [
+          "2 cups of all-purpose flour",
+          "2 tablespoons of sugar",
+          "2 teaspoons of baking powder",
+          "1/2 teaspoon of baking soda",
+          "1/4 teaspoon of salt",
+          "1 1/2 cups of milk",
+          "2 eggs",
+          "1/4 cup of melted butter",
+          "Oil or butter for greasing the griddle",
+          "Maple syrup, butter, fruit or other toppings as desired"
+        ],
+        "cooking_method": [
+          "In a large bowl, whisk together the flour, sugar, baking powder, baking soda and salt.",
+          "In another bowl, whisk together the milk, eggs and melted butter.",
+          "Add the wet ingredients to the dry ingredients and stir until just combined. Do not overmix.",
+          "Heat a griddle or a skillet over medium heat and lightly grease with oil or butter.",
+          "Drop about 1/4 cup of batter onto the griddle and cook for about 3 minutes or until bubbles form on the surface. Flip and cook for another 2 minutes or until golden and cooked through.",
+          "Repeat with the remaining batter, greasing the griddle as needed.",
+          "Serve the pancakes hot with your favorite toppings."
+        ],
+        "rating": 4.4
+      },
+      {
+        "recipe_id": 6,
+        "recipe_name": "Brownies",
+        "image": "https://images5.alphacoders.com/916/916571.jpg",
+        "chef_id": 106,
+        "ingredients": [
+          "1/2 cup of butter",
+          "1 cup of granulated sugar",
+          "2 eggs",
+          "1 teaspoon of vanilla extract",
+          "1/3 cup of unsweetened cocoa powder",
+          "1/2 cup of all-purpose flour",
+          "1/4 teaspoon of salt",
+          "1/4 teaspoon of baking powder",
+          "Optional: chocolate chips, nuts, marshmallows or other add-ins"
+        ],
+        "cooking_method": [
+          "Preheat oven to 350°F and grease an 8x8 inch baking pan",
+          "In a large microwave-safe bowl, melt the butter",
+          "Stir in the sugar, eggs and vanilla until well combined",
+          "Stir in the cocoa powder, flour, salt and baking powder until smooth",
+          "Fold in any add-ins if using",
+          "Spread the batter evenly into the prepared pan and bake for 25 to 30 minutes or until a toothpick inserted in the center comes out clean",
+          "Let the brownies cool slightly before cutting into squares and serving"
+        ],
+        "rating": 4.6
+      }
+    ],
     "likes": 34,
     "chef_description": "Alice is a passionate chef who loves to create delicious dishes with fresh ingredients. She specializes in American cuisine and has a knack for making burgers and fries."
   },
@@ -13,7 +95,87 @@
     "chef_img": "https://static.cordonbleu.edu/Files/MediaFile/82469.jpg",
     "chef_name": "Bob",
     "experience": 3,
-    "recipes": 4,
+    "recipes": [
+      {
+        "recipe_id": 2,
+        "recipe_name": "Macaroni and Cheese",
+        "image": "https://png.pngtree.com/background/20230321/original/pngtree-delicious-cheese-macaroni-picture-image_2153689.jpg",
+        "chef_id": 102,
+        "ingredients": [
+          "8 ounces of elbow macaroni",
+          "1/4 cup of butter",
+          "1/4 cup of all-purpose flour",
+          "2 cups of milk",
+          "2 cups of shredded cheddar cheese",
+          "1/2 teaspoon of salt",
+          "1/4 teaspoon of black pepper",
+          "1/4 teaspoon of paprika"
+        ],
+        "cooking_method": [
+          "Cook the macaroni according to the package directions. Drain and set aside.",
+          "In a large saucepan over medium heat, melt the butter and whisk in the flour. Cook for 2 minutes, stirring constantly.",
+          "Gradually whisk in the milk and bring to a boil. Reduce the heat and simmer for 10 minutes, stirring occasionally.",
+          "Stir in the cheese, salt, pepper and paprika until smooth and melted.",
+          "Add the macaroni and stir to coat well.",
+          "Transfer the mixture to a baking dish and bake for 15 minutes or until bubbly and golden."
+        ],
+        "rating": 4.7
+      },
+      {
+        "recipe_id": 7,
+        "recipe_name": "Caesar Salad",
+        "image": "https://wallpapercave.com/wp/wp3063126.jpg",
+        "chef_id": 107,
+        "ingredients": [
+          "For the dressing:",
+          "1/4 cup of mayonnaise",
+          "2 tablespoons of grated Parmesan cheese",
+          "2 tablespoons of lemon juice",
+          "1 tablespoon of olive oil",
+          "2 teaspoons of anchovy paste",
+          "1 clove of garlic, minced",
+          "1/4 teaspoon of black pepper",
+          "For the salad:",
+          "8 cups of chopped romaine lettuce",
+          "1/4 cup of shaved Parmesan cheese",
+          "2 cups of croutons"
+        ],
+        "cooking_method": [
+          "To make the dressing, whisk together the mayonnaise, Parmesan cheese, lemon juice, olive oil, anchovy paste, garlic and pepper in a small bowl until smooth and creamy.",
+          "To make the salad, toss the lettuce with the dressing in a large bowl until well coated.",
+          "Sprinkle with the shaved Parmesan cheese and croutons and serve."
+        ],
+        "rating": 4.2
+      },
+      {
+        "recipe_id": 10,
+        "recipe_name": "Chocolate Chip Cookies",
+        "image": "https://c4.wallpaperflare.com/wallpaper/334/844/983/cookies-food-chocolate-wallpaper-preview.jpg",
+        "chef_id": 110,
+        "ingredients": [
+          "3/4 cup of unsalted butter, softened",
+          "3/4 cup of granulated sugar",
+          "3/4 cup of brown sugar",
+          "2 eggs",
+          "1 teaspoon of vanilla extract",
+          "2 1/4 cups of all-purpose flour",
+          "1 teaspoon of baking soda",
+          "1/2 teaspoon of salt",
+          "2 cups of semisweet chocolate chips"
+        ],
+        "cooking_method": [
+          "Preheat oven to 375°F and line two baking sheets with parchment paper.",
+          "In a large bowl, cream the butter and sugars together with an electric mixer until light and fluffy.",
+          "Add the eggs and vanilla and beat well until smooth.",
+          "In a medium bowl, whisk together the flour, baking soda and salt. Gradually add the dry ingredients to the ,wet ingredients and mix well until a soft dough forms.",
+          "Stir in the chocolate chips with a wooden spoon or a spatula.",
+          "Drop by rounded tablespoonfuls onto the prepared baking sheets, leaving some space between them.",
+          "Bake for 10 to 12 minutes or until golden and set on the edges but still soft in the center.",
+          "Let the cookies cool slightly on the baking sheets before transferring to a wire rack to cool completely."
+        ],
+        "rating": 4.8
+      }
+    ],
     "likes": 21,
     "chef_description": "Bob is a talented chef who enjoys experimenting with different flavors and cuisines. He likes to make fusion dishes that combine elements from various cultures. He is good at making tacos and pizza."
   },
@@ -22,7 +184,106 @@
     "chef_img": "https://static.cordonbleu.edu/Files/MediaFile/81279.jpg",
     "chef_name": "Charlie",
     "experience": 7,
-    "recipes": 3,
+    "recipes": [
+      {
+        "recipe_id": 3,
+        "recipe_name": "Fried Chicken",
+        "image": "https://keviniscooking.com/wp-content/uploads/2019/06/The-Best-Southern-Fried-Chicken-Recipe-square.jpg",
+        "chef_id": 103,
+        "ingredients": [
+          "8 pieces of chicken (legs, thighs, breasts or wings)",
+          "2 cups of buttermilk",
+          "2 teaspoons of salt",
+          "1 teaspoon of black pepper",
+          "1/4 teaspoon of cayenne pepper",
+          "2 cups of all-purpose flour",
+          "1 teaspoon of baking powder",
+          "1/2 teaspoon of garlic powder",
+          "1/2 teaspoon of onion powder",
+          "Oil for frying"
+        ],
+        "cooking_method": [
+          "Rinse the chicken and pat it dry with paper towels.",
+          "In a large bowl, whisk together the buttermilk, salt, black pepper and cayenne pepper. Add the chicken and toss to coat well. Cover and refrigerate for at least 4 hours or up to overnight.",
+          "In another large bowl, whisk together the flour, baking powder, garlic powder and onion powder.",
+          "Heat about 3 inches of oil in a large skillet over medium-high heat until it reaches 350°F.",
+          "Working in batches, take the chicken out of the buttermilk and shake off any excess. Dredge in the flour mixture and shake off any excess. Carefully lower into the hot oil and fry for 10 to 15 minutes per side or until golden and cooked through. Drain on paper towels."
+        ],
+        "rating": 4.6
+      },
+      {
+        "recipe_id": 4,
+        "recipe_name": "Hamburger",
+        "image": "https://images.unsplash.com/photo-1608767221051-2b9d18f35a2f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8Mnx8fGVufDB8fHx8&w=1000&q=80",
+        "chef_id": 104,
+        "ingredients": [
+          "1 pound of ground beef",
+          "1/4 cup of finely chopped onion",
+          "2 tablespoons of bread crumbs",
+          "1 teaspoon of salt",
+          "1/4 teaspoon of black pepper",
+          "4 hamburger buns",
+          "Lettuce, tomato, cheese, ketchup, mustard and other toppings as desired"
+        ],
+        "cooking_method": [
+          "In a large bowl, mix the ground beef, onion, bread crumbs, salt and pepper. Shape into four equal patties.",
+          "Heat a grill or a skillet over medium-high heat. Cook the patties for about 4 minutes per side or until well done.",
+          "Toast the buns lightly if desired. Assemble the burgers with the patties and your favorite toppings."
+        ],
+        "rating": 4.3
+      },
+      {
+        "recipe_id": 8,
+        "recipe_name": "Grilled Cheese Sandwich",
+        "image": "https://img.freepik.com/free-photo/grilled-sandwich-with-bacon-fried-egg-tomato-lettuce-served-wooden-cutting-board_1150-42571.jpg?w=2000",
+        "chef_id": 108,
+        "ingredients": [
+          "4 slices of bread",
+          "2 tablespoons of butter",
+          "4 slices of cheese (such as cheddar, American or Swiss)",
+          "Optional: tomato slices, bacon strips, ham slices or other fillings as desired"
+        ],
+        "cooking_method": [
+          "Butter one side of each slice of bread.",
+          "Heat a skillet over medium-low heat and place one slice of bread butter-side down on the skillet.",
+          "Top with two slices of cheese and any fillings if using. Place another slice of bread butter-side up on top.",
+          "Cook for about 3 minutes or until golden and crisp on the bottom. Carefully flip and cook for another 3 minutes or until golden and crisp on the other side and the cheese is melted",
+          "Repeat with the remaining bread, butter and cheese to make another sandwich.",
+          "Cut into halves and serve hot."
+        ],
+        "rating": 4.1
+      },
+      {
+        "recipe_id": 9,
+        "recipe_name": "Chili Sauce",
+        "image": "https://www.daysoftheyear.com/wp-content/uploads/hot-sauce-day-scaled.jpg",
+        "chef_id": 109,
+        "ingredients": [
+          "1 tablespoon of oil",
+          "1 onion, chopped",
+          "1 green bell pepper, chopped",
+          "3 cloves of garlic, minced",
+          "1 pound of ground beef",
+          "2 tablespoons of chili powder",
+          "1 teaspoon of cumin",
+          "1 teaspoon of oregano",
+          "1/4 teaspoon of salt",
+          "1/4 teaspoon of black pepper",
+          "1 (15-ounce) can of tomato sauce",
+          "1 (14.5-ounce) can of diced tomatoes",
+          "1 (15-ounce) can of kidney beans, drained and rinsed",
+          "Optional: shredded cheese, sour cream, green onions or other toppings as desired"
+        ],
+        "cooking_method": [
+          "In a large pot over medium-high heat, heat the oil and cook the onion, bell pepper and garlic for about 10 minutes or until soft, stirring occasionally.",
+          "Add the ground beef and cook, breaking it up with a spatula, for about 15 minutes or until browned and cooked through. Drain any excess fat.",
+          "Stir in the chili powder, cumin, oregano, salt and pepper and cook for 1 minute or until fragrant.",
+          "Stir in the tomato sauce, diced tomatoes and kidney beans and bring to a boil. Reduce the heat and simmer for 20 minutes or until slightly thickened.",
+          "Serve the chili hot with your favorite toppings if desired."
+        ],
+        "rating": 4.5
+      }
+    ],
     "likes": 42,
     "chef_description": "Charlie is a seasoned chef who has a lot of experience in cooking for large groups and events. He is skilled at making dishes that are both tasty and healthy. He excels at making salads and sandwiches."
   },
@@ -31,7 +292,92 @@
     "chef_img": "https://static.cordonbleu.edu/Files/MediaFile/81277.jpg",
     "chef_name": "Diana",
     "experience": 4,
-    "recipes": 6,
+    "recipes": [
+      {
+        "recipe_id": 12,
+        "recipe_name": "Peanut Butter Cookies",
+        "image": "https://www.allrecipes.com/thmb/9xkpSRmdg9dd4DhSr0K3L81SfeY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3534210-super-easy-peanut-butter-cookies-Trusted-Brands-4x3-1-919351fc3ccd480695003de8a3fd3730.jpg",
+        "chef_id": 112,
+        "ingredients": [
+          "1/2 cup of unsalted butter, softened",
+          "1/2 cup of creamy peanut butter",
+          "1/2 cup of granulated sugar",
+          "1/2 cup of brown sugar",
+          "1 egg",
+          "1 teaspoon of vanilla extract",
+          "1 1/4 cups of all-purpose flour",
+          "3/4 teaspoon of baking soda",
+          "1/4 teaspoon of salt",
+          "Granulated sugar for rolling"
+        ],
+        "cooking_method": [
+          "Preheat oven to 375°F and line two baking sheets with parchment paper.",
+          "In a large bowl, cream the butter, peanut butter and sugars together with an electric mixer until light and fluffy.",
+          "Add the egg and vanilla and beat well until smooth.",
+          "In a medium bowl, whisk together the flour, baking soda and salt. Gradually add the dry ingredients to the wet ingredients and mix well until a soft dough forms.",
+          "Shape the dough into one-inch balls and roll them in some granulated sugar. Place them on the prepared baking sheets, leaving some space between them. Flatten them slightly with a fork, making a crisscross pattern on top.",
+          "Bake for 8 to 10 minutes or until golden and set on the edges but still soft in the center.",
+          "Let the cookies cool slightly on the baking sheets before transferring to a wire rack to cool completely."
+        ],
+        "rating": 4.7
+      },
+      {
+        "recipe_id": 10,
+        "recipe_name": "Chocolate Chip Cookies",
+        "image": "https://c4.wallpaperflare.com/wallpaper/334/844/983/cookies-food-chocolate-wallpaper-preview.jpg",
+        "chef_id": 110,
+        "ingredients": [
+          "3/4 cup of unsalted butter, softened",
+          "3/4 cup of granulated sugar",
+          "3/4 cup of brown sugar",
+          "2 eggs",
+          "1 teaspoon of vanilla extract",
+          "2 1/4 cups of all-purpose flour",
+          "1 teaspoon of baking soda",
+          "1/2 teaspoon of salt",
+          "2 cups of semisweet chocolate chips"
+        ],
+        "cooking_method": [
+          "Preheat oven to 375°F and line two baking sheets with parchment paper.",
+          "In a large bowl, cream the butter and sugars together with an electric mixer until light and fluffy.",
+          "Add the eggs and vanilla and beat well until smooth.",
+          "In a medium bowl, whisk together the flour, baking soda and salt. Gradually add the dry ingredients to the ,wet ingredients and mix well until a soft dough forms.",
+          "Stir in the chocolate chips with a wooden spoon or a spatula.",
+          "Drop by rounded tablespoonfuls onto the prepared baking sheets, leaving some space between them.",
+          "Bake for 10 to 12 minutes or until golden and set on the edges but still soft in the center.",
+          "Let the cookies cool slightly on the baking sheets before transferring to a wire rack to cool completely."
+        ],
+        "rating": 4.8
+      },
+      {
+        "recipe_id": 11,
+        "recipe_name": "Corn Chowder",
+        "image": "https://cravinghomecooked.com/wp-content/uploads/2020/09/corn-chowder-06-650x650.jpg",
+        "chef_id": 111,
+        "ingredients": [
+          "4 slices of bacon, chopped",
+          "1 onion, diced",
+          "2 celery stalks, diced",
+          "2 carrots, peeled and diced",
+          "3 cloves of garlic, minced",
+          "4 cups of chicken broth",
+          "4 medium potatoes, peeled and cubed",
+          "4 cups of corn kernels (fresh, frozen or canned)",
+          "2 cups of half-and-half",
+          "2 tablespoons of cornstarch",
+          "Salt and pepper to taste",
+          "Chopped parsley for garnish"
+        ],
+        "cooking_method": [
+          "In a large pot over medium-high heat, cook the bacon until crisp, stirring occasionally. Transfer to a paper towel-lined plate and set aside.",
+          "In the same pot, cook the onion, celery, carrots and garlic for about 15 minutes or until soft, stirring occasionally and scraping up any browned bits from the bottom of the pot.",
+          "Add the chicken broth and potatoes and bring to a boil. Reduce the heat and simmer for about 20 minutes or until the potatoes are tender.",
+          "Stir in the corn and half-and-half and bring to a boil. In a small bowl, whisk together the cornstarch and 1/4 cup of water until smooth. Stir into the pot and cook for about 5 minutes or until slightly thickened.",
+          "Season with salt and pepper to taste and garnish with parsley and bacon bits before serving."
+        ],
+        "rating": 4.4
+      }
+    ],
     "likes": 28,
     "chef_description": "Diana is a creative chef who likes to try new things and challenge herself. She is always looking for inspiration from different sources and loves to learn new techniques. She is proficient at making cakes and pies."
   },
@@ -40,7 +386,80 @@
     "chef_img": "https://www.cordonbleu.edu/Files/MediaFile/59089.jpg",
     "chef_name": "Evan",
     "experience": 6,
-    "recipes": 3,
+    "recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Apple Pie",
+        "image": "https://wallpaperaccess.com/full/1561664.jpg",
+        "chef_id": 101,
+        "ingredients": [
+          "1 9-inch pie crust",
+          "6 cups of peeled and sliced apples",
+          "3/4 cup of sugar",
+          "2 tablespoons of all-purpose flour",
+          "1 teaspoon of ground cinnamon",
+          "1/4 teaspoon of salt",
+          "1/8 teaspoon of ground nutmeg",
+          "2 tablespoons of butter"
+        ],
+        "cooking_method": [
+          "Preheat oven to 375°F.",
+          "In a large bowl, toss the apples with the sugar, flour, cinnamon, salt and nutmeg.",
+          "Pour the apple mixture into the pie crust and dot with butter.",
+          "Cover the pie with a second pie crust and crimp the edges.",
+          "Cut several slits on the top crust to allow steam to escape.",
+          "Bake for 45 minutes or until golden and bubbly.",
+          "Let the pie cool slightly before serving."
+        ],
+        "rating": 4.5
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Macaroni and Cheese",
+        "image": "https://png.pngtree.com/background/20230321/original/pngtree-delicious-cheese-macaroni-picture-image_2153689.jpg",
+        "chef_id": 102,
+        "ingredients": [
+          "8 ounces of elbow macaroni",
+          "1/4 cup of butter",
+          "1/4 cup of all-purpose flour",
+          "2 cups of milk",
+          "2 cups of shredded cheddar cheese",
+          "1/2 teaspoon of salt",
+          "1/4 teaspoon of black pepper",
+          "1/4 teaspoon of paprika"
+        ],
+        "cooking_method": [
+          "Cook the macaroni according to the package directions. Drain and set aside.",
+          "In a large saucepan over medium heat, melt the butter and whisk in the flour. Cook for 2 minutes, stirring constantly.",
+          "Gradually whisk in the milk and bring to a boil. Reduce the heat and simmer for 10 minutes, stirring occasionally.",
+          "Stir in the cheese, salt, pepper and paprika until smooth and melted.",
+          "Add the macaroni and stir to coat well.",
+          "Transfer the mixture to a baking dish and bake for 15 minutes or until bubbly and golden."
+        ],
+        "rating": 4.7
+      },
+      {
+        "recipe_id": 8,
+        "recipe_name": "Grilled Cheese Sandwich",
+        "image": "https://img.freepik.com/free-photo/grilled-sandwich-with-bacon-fried-egg-tomato-lettuce-served-wooden-cutting-board_1150-42571.jpg?w=2000",
+        "chef_id": 108,
+        "ingredients": [
+          "4 slices of bread",
+          "2 tablespoons of butter",
+          "4 slices of cheese (such as cheddar, American or Swiss)",
+          "Optional: tomato slices, bacon strips, ham slices or other fillings as desired"
+        ],
+        "cooking_method": [
+          "Butter one side of each slice of bread.",
+          "Heat a skillet over medium-low heat and place one slice of bread butter-side down on the skillet.",
+          "Top with two slices of cheese and any fillings if using. Place another slice of bread butter-side up on top.",
+          "Cook for about 3 minutes or until golden and crisp on the bottom. Carefully flip and cook for another 3 minutes or until golden and crisp on the other side and the cheese is melted",
+          "Repeat with the remaining bread, butter and cheese to make another sandwich.",
+          "Cut into halves and serve hot."
+        ],
+        "rating": 4.1
+      }
+    ],
     "likes": 37,
     "chef_description": "Evan is a friendly chef who likes to share his passion for cooking with others. He is good at teaching and explaining his methods and tips. He is adept at making barbecue and ribs."
   },
@@ -49,7 +468,76 @@
     "chef_img": "https://1.bp.blogspot.com/-b_jY-0G4xns/XQtI419t8WI/AAAAAAAATGY/Gu4YUJcCUWwW4wYfSKpj2eWMVae4EBgIgCLcBGAs/s1600/Chef%2BStephane%2BAlexandre.jpg",
     "chef_name": "Max",
     "experience": 8,
-    "recipes": 4,
+    "recipes": [
+      {
+        "recipe_id": 4,
+        "recipe_name": "Hamburger",
+        "image": "https://images.unsplash.com/photo-1608767221051-2b9d18f35a2f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8Mnx8fGVufDB8fHx8&w=1000&q=80",
+        "chef_id": 104,
+        "ingredients": [
+          "1 pound of ground beef",
+          "1/4 cup of finely chopped onion",
+          "2 tablespoons of bread crumbs",
+          "1 teaspoon of salt",
+          "1/4 teaspoon of black pepper",
+          "4 hamburger buns",
+          "Lettuce, tomato, cheese, ketchup, mustard and other toppings as desired"
+        ],
+        "cooking_method": [
+          "In a large bowl, mix the ground beef, onion, bread crumbs, salt and pepper. Shape into four equal patties.",
+          "Heat a grill or a skillet over medium-high heat. Cook the patties for about 4 minutes per side or until well done.",
+          "Toast the buns lightly if desired. Assemble the burgers with the patties and your favorite toppings."
+        ],
+        "rating": 4.3
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Fried Chicken",
+        "image": "https://keviniscooking.com/wp-content/uploads/2019/06/The-Best-Southern-Fried-Chicken-Recipe-square.jpg",
+        "chef_id": 103,
+        "ingredients": [
+          "8 pieces of chicken (legs, thighs, breasts or wings)",
+          "2 cups of buttermilk",
+          "2 teaspoons of salt",
+          "1 teaspoon of black pepper",
+          "1/4 teaspoon of cayenne pepper",
+          "2 cups of all-purpose flour",
+          "1 teaspoon of baking powder",
+          "1/2 teaspoon of garlic powder",
+          "1/2 teaspoon of onion powder",
+          "Oil for frying"
+        ],
+        "cooking_method": [
+          "Rinse the chicken and pat it dry with paper towels.",
+          "In a large bowl, whisk together the buttermilk, salt, black pepper and cayenne pepper. Add the chicken and toss to coat well. Cover and refrigerate for at least 4 hours or up to overnight.",
+          "In another large bowl, whisk together the flour, baking powder, garlic powder and onion powder.",
+          "Heat about 3 inches of oil in a large skillet over medium-high heat until it reaches 350°F.",
+          "Working in batches, take the chicken out of the buttermilk and shake off any excess. Dredge in the flour mixture and shake off any excess. Carefully lower into the hot oil and fry for 10 to 15 minutes per side or until golden and cooked through. Drain on paper towels."
+        ],
+        "rating": 4.6
+      },
+      {
+        "recipe_id": 8,
+        "recipe_name": "Grilled Cheese Sandwich",
+        "image": "https://img.freepik.com/free-photo/grilled-sandwich-with-bacon-fried-egg-tomato-lettuce-served-wooden-cutting-board_1150-42571.jpg?w=2000",
+        "chef_id": 108,
+        "ingredients": [
+          "4 slices of bread",
+          "2 tablespoons of butter",
+          "4 slices of cheese (such as cheddar, American or Swiss)",
+          "Optional: tomato slices, bacon strips, ham slices or other fillings as desired"
+        ],
+        "cooking_method": [
+          "Butter one side of each slice of bread.",
+          "Heat a skillet over medium-low heat and place one slice of bread butter-side down on the skillet.",
+          "Top with two slices of cheese and any fillings if using. Place another slice of bread butter-side up on top.",
+          "Cook for about 3 minutes or until golden and crisp on the bottom. Carefully flip and cook for another 3 minutes or until golden and crisp on the other side and the cheese is melted",
+          "Repeat with the remaining bread, butter and cheese to make another sandwich.",
+          "Cut into halves and serve hot."
+        ],
+        "rating": 4.1
+      }
+    ],
     "likes": 45,
     "chef_description": "Fiona is a professional chef who has worked in several renowned restaurants and hotels. She has a high standard of quality and presentation. She is masterful at making steak and lobster."
   }
