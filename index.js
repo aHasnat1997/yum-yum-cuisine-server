@@ -18,7 +18,7 @@ app.get('/chef', (req, res) => {
 
 app.get('/chef/:id', (req, res) => {
   const id = parseInt(req.params.id);
-  const chef = chefs.find(chef => chef.chef_id === id || {});
+  const chef = chefs.find(chef => chef.chef_id === id);
   console.log(id);
   res.send(chef);
 })
@@ -28,8 +28,8 @@ app.get('/recipe', (req, res) => {
 })
 
 app.get('/recipe/:id', (req, res) => {
-  const id = (req.params.id);
-  const recipe = recipes.find(recipe => recipe.recipe_id === id || {});
+  const id = parseInt(req.params.id);
+  const recipe = recipes.find(recipe => recipe.recipe_id === id);
   res.send(recipe);
 })
 
